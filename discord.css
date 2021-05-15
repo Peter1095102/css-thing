@@ -1,0 +1,44 @@
+.executedCommandAvatar-yZ5r9z, 
+.replyAvatar-1K9Wmr, 
+.replyBadge-r1su3o, 
+.threadMessageAccessoryAvatar-2XWCxw,
+.avatar-1BDn8e {
+    border-radius: 20%;
+}
+
+.theme-dark{
+    --background-primary: #000;
+    --background-secondary: #111;
+    --background-tertiary: #0a0a0a;
+    --background-secondary-alt: #080808;
+    
+}
+
+.scrollableContainer-2NUZem,
+.theme-dark .container-1D34oG{
+    background-color: #0d0d0d;
+}
+
+.auto-Ge5KZx::-webkit-scrollbar-track,
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+    background-color: #111;
+}
+
+.headerPlaying-j0WQBV,
+.botTagRegular-2HEhHi,
+.newMessagesBar-265mhP {
+    background: #094EA7;
+}
+
+.anchor-33Z-8Bb .anchorUnderlineOnHover-2ESHQB{
+    color: #094EA7;
+}
+
+.role-2irmRk{
+    border-radius: 4px;
+}
+
+.reaction-1hd86g.reactionMe-wv5HKu{
+    border-color: transparent;
+    background-color: #48516e;
+}
