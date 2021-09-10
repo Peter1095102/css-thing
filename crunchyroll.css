@@ -1,0 +1,71 @@
+body.main-page,
+#template_container.template-container{
+    background-color: #000;
+}
+
+#template_body.old-template-body,
+#footer_menu, .main-tabs,
+.white-wrapper.container-shadow.large-margin-bottom{
+    background-color: #111
+}
+
+#tabs, .wrapper.container-shadow.hover-classes a {
+    background-color: #222;
+}
+
+.main-tabs a.selected, .main-tabs a.selected:hover {
+    background-color: #df6300;
+}
+
+.store, .games{
+    background-color: transparent !important;
+}
+
+.site-header{
+    background-color: #080808;
+}
+
+.show-all-simulcasts-button,
+textarea#gb1001-MEDIAKEY_758985_GRGGEJM4R_textarea,
+.guestbook-sort-bar,
+.more-replies{
+    background: #080808 !important;
+    border-color: black !important;
+}
+
+.welcome-simulcasts .welcome-simulcasts-episode{
+    color: gray;
+}
+
+.welcome-block h1 a, 
+.welcome-title-list h1 a{
+    color: #df6300;
+}
+
+body{
+    color: gray;
+}
+
+.welcome-crnews-title, .welcome-news-title, 
+.header-menubar li a, #games_button, #store_button{
+    color: #999 !important;
+}
+
+.welcome-crnews-subtitle .byline, 
+.welcome-news-subtitle .byline,
+.welcome-countdown-items a,
+.welcome-simulcasts 
+.welcome-simulcasts-collection a,
+a.block-link, 
+.welcome-latest-videos .series,
+.welcome-latest-videos .name,
+.new-template-body a.block-link, .old-template-body a.block-link, a.block-link{
+    color: #aaa;
+}
+
+.landscape-grid .wrapper:hover,
+.welcome-countdown-items a:hover,
+.welcome-simulcasts .welcome-simulcasts-episode:hover{
+    background-color: #000 !important;
+}
+
