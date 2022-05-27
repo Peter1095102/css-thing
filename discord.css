@@ -7,6 +7,39 @@
     border-radius: 20%;
 }
 
+.role-2TIOKu{
+    border-radius:2px
+}
+
+.scrollableContainer-2NUZem,
+.theme-dark .container-1D34oG{
+    background-color: #0d0d0d;
+}
+
+.headerPlaying-j0WQBV,
+.botTagRegular-2HEhHi,
+.newMessagesBar-265mhP,
+.anchor-33Z-8Bb .anchorUnderlineOnHover-2ESHQB{
+    background: #094EA7;
+}
+
+.group-spacing-16 .groupStart-3Mlgv1{
+    margin-top: 0.7rem;
+}
+
+.reaction-1hd86g.reactionMe-wv5HKu{
+    border-color: transparent;
+    background-color: #48516e;
+}
+
+.peopleColumn-1wMU14{
+    background-color: var(--background-primary)
+}
+
+.auto-2K3UW5::-webkit-scrollbar-track {
+    background-color: var(--background-secondary)
+}
+
 .theme-dark{
     --background-primary: #000;
     --background-secondary: #111;
@@ -15,33 +48,4 @@
     --background-floating: #0d0d0d;
     --background-modifier-active: #0d0d0d;
     --channeltextarea-background: #0d0d0d
-}
-
-.scrollableContainer-2NUZem,
-.theme-dark .container-1D34oG{
-    background-color: #0d0d0d;
-}
-
-.auto-Ge5KZx::-webkit-scrollbar-track,
-.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
-    background-color: #111;
-}
-
-.headerPlaying-j0WQBV,
-.botTagRegular-2HEhHi,
-.newMessagesBar-265mhP {
-    background: #094EA7;
-}
-
-.anchor-33Z-8Bb .anchorUnderlineOnHover-2ESHQB{
-    color: #094EA7;
-}
-
-.role-2irmRk{
-    border-radius: 4px;
-}
-
-.reaction-1hd86g.reactionMe-wv5HKu{
-    border-color: transparent;
-    background-color: #48516e;
 }
