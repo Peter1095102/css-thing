@@ -8,7 +8,7 @@
 }
 
 .role-2TIOKu{
-    border-radius:2px
+    border-radius:2px;
 }
 
 .scrollableContainer-2NUZem,
@@ -33,11 +33,15 @@
 }
 
 .peopleColumn-1wMU14{
-    background-color: var(--background-primary)
+    background-color: var(--background-primary);
 }
 
 .auto-2K3UW5::-webkit-scrollbar-track {
-    background-color: var(--background-secondary)
+    background-color: var(--background-secondary);
+}
+
+.list-2u03C-{
+    background-color: var(--background-secondary);
 }
 
 .theme-dark{
